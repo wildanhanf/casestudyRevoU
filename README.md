@@ -7,3 +7,4 @@ Gaming industry is an interesting field to explore, it would be fun to knowing w
 - Which developer developed most of the games ?
 - Which series are the most sales ?
 - Which series have the most games ?
+### Presentation : https://www.canva.com/design/DAFWH0tiNq8/ygqmRRsyLAjLHs75C0EVNw/view?utm_content=DAFWH0tiNq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
